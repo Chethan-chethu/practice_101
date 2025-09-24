@@ -1,2 +1,4 @@
 this is the text file number two
 
+this line is added from the clone repository
+
