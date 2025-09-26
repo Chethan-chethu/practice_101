@@ -1,6 +1,0 @@
-this is the text file number two
-
-this line is added from the clone repository
-
-dev 2 : fourth line of code added in file no 2
-
