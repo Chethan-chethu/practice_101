@@ -8,4 +8,8 @@ dev1 : line no 1
 
 dev2 : i am doing first commit 
 
+<<<<<<< HEAD
+dev 2 : 7 (2)
+=======
 dev 1 : six (2)
+>>>>>>> 498159861a639f33ae5cf3b9f693469513f9a8e9
